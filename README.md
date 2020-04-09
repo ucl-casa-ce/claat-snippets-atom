@@ -10,7 +10,8 @@ A collection of snippets for [CLAAT (CodeLab As A Thing)](https://github.com/goo
 The easiest way is to install it via Atom itself.
 
 - Go to **Atom Settings** <kbd>Ctrl</kbd> + <kbd>,</kbd> or <kbd>⌘</kbd> + <kbd>,</kbd>
-- Select **Packages** on left hand menu.
+- Select **Install a Package** on the Welcome Guide.
+- Select **Open Installer** button.
 - Search for **claat-snippets**
 
 Or, search for **claat-snippets** in the [Atom Package Manager](https://github.com/atom/apm).
