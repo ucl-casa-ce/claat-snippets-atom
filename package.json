@@ -1,5 +1,5 @@
 {
-  "name": "claat-snippets-atom",
+  "name": "claat-snippets",
   "main": "./lib/claat-snippets-atom",
   "version": "1.0.2",
   "description": "Making writing CLAAT (Google's CodeLab As A Thing) markdown files fun and easy since 2020.",
