@@ -1,15 +1,15 @@
 {
   "name": "claat-snippets",
   "main": "./lib/claat-snippets-atom",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Making writing CLAAT (Google's CodeLab As A Thing) markdown files fun and easy since 2020.",
   "keywords": [
-        "codelab as a thing",
-        "claat",
-        "codelab",
-        "code",
-        "lab",
-        "snippets"
+    "codelab as a thing",
+    "claat",
+    "codelab",
+    "code",
+    "lab",
+    "snippets"
   ],
   "activationCommands": {
     "atom-workspace": "claat-snippets-atom:toggle"
@@ -19,6 +19,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
