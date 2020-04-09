@@ -7,9 +7,9 @@ A collection of snippets for [CLAAT (CodeLab As A Thing)](https://github.com/goo
 # Installation
 
 ### Via Package Control
-The easiest way is to install it via [Package Control](https://packagecontrol.io).
+The easiest way is to install it via Atom itself.
 
-- Go to **Command Palette** <kbd>Ctrl</kbd> + <kbd>,</kbd> or <kbd>⌘</kbd> + <kbd>,</kbd>
+- Go to **Atom Settings** <kbd>Ctrl</kbd> + <kbd>,</kbd> or <kbd>⌘</kbd> + <kbd>,</kbd>
 - Select **Packages** on left hand menu.
 - Search for **claat-snippets**
 
@@ -26,7 +26,7 @@ Type part of a snippet, starting with `claat`, press `enter` and the snippet wil
 | Snippet | Content |
 | ------- | ------- |
 | `claat-header` | Creates a Codelab Header |
-| `claat-create-empty_step` | Create an Empty Codelab Step |
+| `claat-create-empty-step` | Create an Empty Codelab Step |
 | `claat-create-example-step` | Create an Example Codelab Step |
 | `claat-create-parts-list` | Create a Parts List |
 | `claat-infobox` | Add a positive style info box |
