@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle claat-snippets-atom",
+        "command": "claat-snippets-atom:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "claat-snippets-atom",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "claat-snippets-atom:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
